@@ -1,1 +1,1 @@
-# js-calismalar
+# ai-studio
